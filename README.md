@@ -94,3 +94,4 @@ Pull requests are welcome! To contribute:
 * Built with vanilla web technologies (HTML/CSS/JS)
 * Inspired by event management applications
 * Great practice project for JavaScript DOM manipulation
+https://bethwelkipruto.github.io/EventGuest-List/

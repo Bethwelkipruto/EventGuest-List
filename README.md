@@ -1,4 +1,4 @@
-//bethwelkipruto.github.io/EventGuest-List/
+https://bethwelkipruto.github.io/EventGuest-List/
 # Event Guest List 🎉 https:
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)

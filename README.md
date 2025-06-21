@@ -1,4 +1,5 @@
-# Event Guest List 🎉
+//bethwelkipruto.github.io/EventGuest-List/
+# Event Guest List 🎉 https:
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS](https://img.shields.io/badge/CSS-3-blue.svg)
@@ -94,4 +95,3 @@ Pull requests are welcome! To contribute:
 * Built with vanilla web technologies (HTML/CSS/JS)
 * Inspired by event management applications
 * Great practice project for JavaScript DOM manipulation
-https://bethwelkipruto.github.io/EventGuest-List/
